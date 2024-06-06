@@ -1,4 +1,4 @@
-## bem vindos ao meu perfilados 👋
+## bem vindos ao meu perfil 👋
 
 estou estudando na [alura](httsp://www.alura.com.br)
 estou desenvolvendo linguagens 
